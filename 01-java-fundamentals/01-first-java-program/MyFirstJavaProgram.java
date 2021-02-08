@@ -1,4 +1,4 @@
-public class MyFirstProgram {
+public class MyFirstJavaProgram {
     public static void main(String[] args) {
         System.out.println("My Name is Tenzing Shema");
         System.out.println("I am 29 years old");
